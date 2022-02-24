@@ -894,8 +894,8 @@ void tabel5() {
 		printf("+=====+=============================+=================+\n");
 		printf("|  1. | Cheeseburger                | Rp       35.000 |\n");
 		printf("|  2. | Chicken Burger              | Rp       35.000 |\n");
-		printf("|  3. | Happy Meal® Ayam            | Rp       35.000 |\n");
-		printf("|  4. | Happy Meal® McNuggets® 4Pcs | Rp       35.000 |\n");
+		printf("|  3. | Happy MealÂ® Ayam            | Rp       35.000 |\n");
+		printf("|  4. | Happy MealÂ® McNuggetsÂ® 4Pcs | Rp       35.000 |\n");
 		printf("+=====+=============================+=================+\n");
 		printf("|  0. | Kembali                                       |\n");	
 		printf("+=====+===============================================+\n");

@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+The Asteroid video game is a game where the player controls a spaceship 
+to avoid asteroids and earn coins to increase the score as much as 
+possible.
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Asteroids

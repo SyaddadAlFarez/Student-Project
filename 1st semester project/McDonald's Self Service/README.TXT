@@ -1,5 +1,7 @@
 ------------------------------------------------------------------------
-A McDonald's Self Service program can record customer orders and add up the total costs to be incurred and provide the final result in the form of an order number.
+A McDonald's Self Service program can record customer orders and add 
+up the total costs to be incurred and provide the final result in the 
+form of an order number.
 ------------------------------------------------------------------------
 
 PROJECT TITLE: McDonald's Self Service
